@@ -61,8 +61,8 @@ markdown
 <div align="center">
 
 ### 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=MoOzma&show_icons=true&theme=nord&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoOzma&layout=compact&theme=nord&hide_border=true" width="40%">
 
 <hr>
 
