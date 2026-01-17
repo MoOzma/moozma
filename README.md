@@ -9,9 +9,9 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=MoOzma&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/OOZMAA) <br>
+[![telegram badge](https://img.shields.io/badge/OOZMAA-grey?style=flat&logo=telegram)](https://t.me/OOZMAA) <br>
 </div>
 
 <hr></hr>
